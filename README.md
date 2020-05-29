@@ -6,12 +6,14 @@ In this workshop, we'll not only learn about the basics of Git and GitHub, like 
 As always, you can ask us any questions that you might have during this workshop. We'll also be available in the discord chat after the workshop.
 
 # What to Bring 
-Make sure you have downloaded and installed the following applications before the Workshop:
+Make sure you have downloaded and installed the following applications before the workshop:
 * Git ( download link: https://git-scm.com/downloads )
 * GitHub Desktop ( download link: https://desktop.github.com/ )
 * VS Code ( download link: https://code.visualstudio.com/download ) 
 
 Note: VS Code is not necessary; any code editor would work.
+
+<h3>Please make a GitHub account before the workshop starts. You will use this in the practical part of the workshop.</h3>
 
 # Info 
 * MSA Website:  https://msa.azurewebsites.net
